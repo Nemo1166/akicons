@@ -1,0 +1,744 @@
+{
+  "id": "3670092",
+  "name": "ak",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-ak-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4936694",
+      "name": "setting-fill",
+      "font_class": "setting",
+      "unicode": "e871",
+      "unicode_decimal": 59505
+    },
+    {
+      "icon_id": "15590733",
+      "name": "git-repository-fill",
+      "font_class": "repository",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "963371",
+      "name": "info",
+      "font_class": "file-info",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "19709888",
+      "name": "索引",
+      "font_class": "index",
+      "unicode": "ebd4",
+      "unicode_decimal": 60372
+    },
+    {
+      "icon_id": "32047111",
+      "name": "Geek",
+      "font_class": "geek",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "32027626",
+      "name": "push-stroker",
+      "font_class": "push-stroker",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "32027627",
+      "name": "musha",
+      "font_class": "musha",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "32027628",
+      "name": "mystic",
+      "font_class": "mystic",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "32027629",
+      "name": "flinger",
+      "font_class": "flinger",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "32027630",
+      "name": "incantation",
+      "font_class": "incantation",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "32027631",
+      "name": "protector",
+      "font_class": "protector",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "32027632",
+      "name": "reaper",
+      "font_class": "reaper",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "32027633",
+      "name": "guardian",
+      "font_class": "guardian",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "32027634",
+      "name": "liberator",
+      "font_class": "liberator",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "32027635",
+      "name": "trapmaster",
+      "font_class": "trapmaster",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "32027636",
+      "name": "standard-bearer",
+      "font_class": "standard-bearer",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "32027637",
+      "name": "tactician",
+      "font_class": "tactician",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "32027638",
+      "name": "splash",
+      "font_class": "splash",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "32027639",
+      "name": "therapist",
+      "font_class": "therapist",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "32027640",
+      "name": "spreadshooter",
+      "font_class": "spreadshooter",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "32027641",
+      "name": "summoner",
+      "font_class": "summoner",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "32027642",
+      "name": "swordmaster",
+      "font_class": "swordmaster",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "32027643",
+      "name": "sentinel",
+      "font_class": "sentinel",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "32027644",
+      "name": "wandering",
+      "font_class": "wandering",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "32027591",
+      "name": "ambusher",
+      "font_class": "ambusher",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "32027592",
+      "name": "abjurer",
+      "font_class": "abjurer",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "32027593",
+      "name": "bard",
+      "font_class": "bard",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "32027594",
+      "name": "agent",
+      "font_class": "agent",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "32027595",
+      "name": "arts-protector",
+      "font_class": "arts-protector",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "32027596",
+      "name": "artificer",
+      "font_class": "artificer",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "32027597",
+      "name": "besieger",
+      "font_class": "besieger",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "32027598",
+      "name": "blast",
+      "font_class": "blast",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "32027599",
+      "name": "centurion",
+      "font_class": "centurion",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "32027600",
+      "name": "arts-fighter",
+      "font_class": "arts-fighter",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "32027601",
+      "name": "artilleryman",
+      "font_class": "artilleryman",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "32027602",
+      "name": "charger",
+      "font_class": "charger",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "32027603",
+      "name": "chain",
+      "font_class": "chain",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "32027604",
+      "name": "core",
+      "font_class": "core",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "32027605",
+      "name": "deadeye",
+      "font_class": "deadeye",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "32027606",
+      "name": "decel-binder",
+      "font_class": "decel-binder",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "32027607",
+      "name": "dollkeeper",
+      "font_class": "dollkeeper",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "32027608",
+      "name": "fortress",
+      "font_class": "fortress",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "32027609",
+      "name": "duelist",
+      "font_class": "duelist",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "32027611",
+      "name": "instructor",
+      "font_class": "instructor",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "32027612",
+      "name": "medic-branch",
+      "font_class": "medic-branch",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "32027613",
+      "name": "mech-accord",
+      "font_class": "mech-accord",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "32027614",
+      "name": "lord",
+      "font_class": "lord",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "32027615",
+      "name": "hookmaster",
+      "font_class": "hookmaster",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "32027616",
+      "name": "marksman",
+      "font_class": "marksman",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "32027617",
+      "name": "executor",
+      "font_class": "executor",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "32027618",
+      "name": "juggernaut",
+      "font_class": "juggernaut",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "32027619",
+      "name": "merchant",
+      "font_class": "merchant",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "32027620",
+      "name": "phalanx",
+      "font_class": "phalanx",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "32027621",
+      "name": "multi-target",
+      "font_class": "multi-target",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "32027622",
+      "name": "hexer",
+      "font_class": "hexer",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "32027623",
+      "name": "heavyshooter",
+      "font_class": "heavyshooter",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "32027624",
+      "name": "pioneer",
+      "font_class": "pioneer",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "32027625",
+      "name": "dreadnought",
+      "font_class": "dreadnought",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "32027165",
+      "name": "cc",
+      "font_class": "cc",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "32026602",
+      "name": "orig-ingot",
+      "font_class": "orig-ingot",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "32026588",
+      "name": "life-point",
+      "font_class": "life-point",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "32026589",
+      "name": "hope",
+      "font_class": "hope",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "32026590",
+      "name": "enemy",
+      "font_class": "enemy",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "32026591",
+      "name": "credit",
+      "font_class": "credit",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "32026392",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "32026393",
+      "name": "store",
+      "font_class": "store",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "32026395",
+      "name": "squad",
+      "font_class": "squad",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "32026397",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "32025379",
+      "name": "sanity",
+      "font_class": "sanity",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "32025371",
+      "name": "orig-prime",
+      "font_class": "orig-prime",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "32025372",
+      "name": "orundum",
+      "font_class": "orundum",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "32025358",
+      "name": "data-contract",
+      "font_class": "data-contract",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "32025359",
+      "name": "comm-cert",
+      "font_class": "comm-cert",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "32025360",
+      "name": "LMD",
+      "font_class": "LMD",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "32025361",
+      "name": "dist-cert",
+      "font_class": "dist-cert",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "32025362",
+      "name": "shop-voucher",
+      "font_class": "shop-voucher",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "32024857",
+      "name": "enemy-elite",
+      "font_class": "enemy-elite",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "32024858",
+      "name": "operator-s",
+      "font_class": "operator-s",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "32024859",
+      "name": "enemy-normal",
+      "font_class": "enemy-normal",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "32024860",
+      "name": "combat",
+      "font_class": "combat",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "32024861",
+      "name": "story",
+      "font_class": "story",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "32024862",
+      "name": "items",
+      "font_class": "items",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "32024863",
+      "name": "recruit",
+      "font_class": "recruit",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "32024864",
+      "name": "enemy-boss",
+      "font_class": "enemy-boss",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "32023902",
+      "name": "operator",
+      "font_class": "operator",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "32023670",
+      "name": "op-specialist-s",
+      "font_class": "specialist-s",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "32023671",
+      "name": "op-medic-s",
+      "font_class": "medic-s",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "32023672",
+      "name": "op-caster-s",
+      "font_class": "caster-s",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "32023673",
+      "name": "op-guard-s",
+      "font_class": "guard-s",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "32023674",
+      "name": "op-vanguard-s",
+      "font_class": "vanguard-s",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "32023675",
+      "name": "op-supporter-s",
+      "font_class": "supporter-s",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "32023676",
+      "name": "op-defender-s",
+      "font_class": "defender-s",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "32023677",
+      "name": "op-sniper-s",
+      "font_class": "sniper-s",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "16423777",
+      "name": "Staff_onboarding",
+      "font_class": "onboarding",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "32023304",
+      "name": "op-caster",
+      "font_class": "caster",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "32023303",
+      "name": "op-sniper",
+      "font_class": "sniper",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "32023300",
+      "name": "op-guard",
+      "font_class": "guard",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "32023263",
+      "name": "op-defender",
+      "font_class": "defender",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "32023268",
+      "name": "op-medic",
+      "font_class": "medic",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "32023270",
+      "name": "op-vanguard",
+      "font_class": "vanguard",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "32023276",
+      "name": "op-specialist",
+      "font_class": "specialist",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "32023299",
+      "name": "op-supporter",
+      "font_class": "supporter",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "609485",
+      "name": "门",
+      "font_class": "door-in",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "14679108",
+      "name": "house_fill",
+      "font_class": "house_fill",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "15591912",
+      "name": "passport-fill",
+      "font_class": "passport-fill",
+      "unicode": "ea36",
+      "unicode_decimal": 59958
+    }
+  ]
+}

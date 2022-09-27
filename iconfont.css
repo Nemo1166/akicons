@@ -1,0 +1,436 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3670092 */
+  src: url('iconfont.woff2?t=1664284458294') format('woff2'),
+       url('iconfont.woff?t=1664284458294') format('woff'),
+       url('iconfont.ttf?t=1664284458294') format('truetype'),
+       url('iconfont.svg?t=1664284458294#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ak-setting:before {
+  content: "\e871";
+}
+
+.icon-ak-repository:before {
+  content: "\e6f3";
+}
+
+.icon-ak-file-info:before {
+  content: "\e663";
+}
+
+.icon-ak-index:before {
+  content: "\ebd4";
+}
+
+.icon-ak-geek:before {
+  content: "\e662";
+}
+
+.icon-ak-push-stroker:before {
+  content: "\e64f";
+}
+
+.icon-ak-musha:before {
+  content: "\e650";
+}
+
+.icon-ak-mystic:before {
+  content: "\e651";
+}
+
+.icon-ak-flinger:before {
+  content: "\e652";
+}
+
+.icon-ak-incantation:before {
+  content: "\e653";
+}
+
+.icon-ak-protector:before {
+  content: "\e654";
+}
+
+.icon-ak-reaper:before {
+  content: "\e655";
+}
+
+.icon-ak-guardian:before {
+  content: "\e656";
+}
+
+.icon-ak-liberator:before {
+  content: "\e657";
+}
+
+.icon-ak-trapmaster:before {
+  content: "\e658";
+}
+
+.icon-ak-standard-bearer:before {
+  content: "\e659";
+}
+
+.icon-ak-tactician:before {
+  content: "\e65a";
+}
+
+.icon-ak-splash:before {
+  content: "\e65b";
+}
+
+.icon-ak-therapist:before {
+  content: "\e65c";
+}
+
+.icon-ak-spreadshooter:before {
+  content: "\e65d";
+}
+
+.icon-ak-summoner:before {
+  content: "\e65e";
+}
+
+.icon-ak-swordmaster:before {
+  content: "\e65f";
+}
+
+.icon-ak-sentinel:before {
+  content: "\e660";
+}
+
+.icon-ak-wandering:before {
+  content: "\e661";
+}
+
+.icon-ak-ambusher:before {
+  content: "\e62d";
+}
+
+.icon-ak-abjurer:before {
+  content: "\e62e";
+}
+
+.icon-ak-bard:before {
+  content: "\e62f";
+}
+
+.icon-ak-agent:before {
+  content: "\e630";
+}
+
+.icon-ak-arts-protector:before {
+  content: "\e631";
+}
+
+.icon-ak-artificer:before {
+  content: "\e632";
+}
+
+.icon-ak-besieger:before {
+  content: "\e633";
+}
+
+.icon-ak-blast:before {
+  content: "\e634";
+}
+
+.icon-ak-centurion:before {
+  content: "\e635";
+}
+
+.icon-ak-arts-fighter:before {
+  content: "\e636";
+}
+
+.icon-ak-artilleryman:before {
+  content: "\e637";
+}
+
+.icon-ak-charger:before {
+  content: "\e638";
+}
+
+.icon-ak-chain:before {
+  content: "\e639";
+}
+
+.icon-ak-core:before {
+  content: "\e63a";
+}
+
+.icon-ak-deadeye:before {
+  content: "\e63b";
+}
+
+.icon-ak-decel-binder:before {
+  content: "\e63c";
+}
+
+.icon-ak-dollkeeper:before {
+  content: "\e63d";
+}
+
+.icon-ak-fortress:before {
+  content: "\e63e";
+}
+
+.icon-ak-duelist:before {
+  content: "\e63f";
+}
+
+.icon-ak-instructor:before {
+  content: "\e640";
+}
+
+.icon-ak-medic-branch:before {
+  content: "\e641";
+}
+
+.icon-ak-mech-accord:before {
+  content: "\e642";
+}
+
+.icon-ak-lord:before {
+  content: "\e643";
+}
+
+.icon-ak-hookmaster:before {
+  content: "\e644";
+}
+
+.icon-ak-marksman:before {
+  content: "\e645";
+}
+
+.icon-ak-executor:before {
+  content: "\e646";
+}
+
+.icon-ak-juggernaut:before {
+  content: "\e647";
+}
+
+.icon-ak-merchant:before {
+  content: "\e648";
+}
+
+.icon-ak-phalanx:before {
+  content: "\e649";
+}
+
+.icon-ak-multi-target:before {
+  content: "\e64a";
+}
+
+.icon-ak-hexer:before {
+  content: "\e64b";
+}
+
+.icon-ak-heavyshooter:before {
+  content: "\e64c";
+}
+
+.icon-ak-pioneer:before {
+  content: "\e64d";
+}
+
+.icon-ak-dreadnought:before {
+  content: "\e64e";
+}
+
+.icon-ak-cc:before {
+  content: "\e62c";
+}
+
+.icon-ak-orig-ingot:before {
+  content: "\e62b";
+}
+
+.icon-ak-life-point:before {
+  content: "\e627";
+}
+
+.icon-ak-hope:before {
+  content: "\e628";
+}
+
+.icon-ak-enemy:before {
+  content: "\e629";
+}
+
+.icon-ak-credit:before {
+  content: "\e62a";
+}
+
+.icon-ak-home:before {
+  content: "\e623";
+}
+
+.icon-ak-store:before {
+  content: "\e624";
+}
+
+.icon-ak-squad:before {
+  content: "\e625";
+}
+
+.icon-ak-info:before {
+  content: "\e626";
+}
+
+.icon-ak-sanity:before {
+  content: "\e621";
+}
+
+.icon-ak-orig-prime:before {
+  content: "\e61f";
+}
+
+.icon-ak-orundum:before {
+  content: "\e620";
+}
+
+.icon-ak-data-contract:before {
+  content: "\e61a";
+}
+
+.icon-ak-comm-cert:before {
+  content: "\e61b";
+}
+
+.icon-ak-LMD:before {
+  content: "\e61c";
+}
+
+.icon-ak-dist-cert:before {
+  content: "\e61d";
+}
+
+.icon-ak-shop-voucher:before {
+  content: "\e61e";
+}
+
+.icon-ak-enemy-elite:before {
+  content: "\e612";
+}
+
+.icon-ak-operator-s:before {
+  content: "\e613";
+}
+
+.icon-ak-enemy-normal:before {
+  content: "\e614";
+}
+
+.icon-ak-combat:before {
+  content: "\e615";
+}
+
+.icon-ak-story:before {
+  content: "\e616";
+}
+
+.icon-ak-items:before {
+  content: "\e617";
+}
+
+.icon-ak-recruit:before {
+  content: "\e618";
+}
+
+.icon-ak-enemy-boss:before {
+  content: "\e619";
+}
+
+.icon-ak-operator:before {
+  content: "\e611";
+}
+
+.icon-ak-specialist-s:before {
+  content: "\e609";
+}
+
+.icon-ak-medic-s:before {
+  content: "\e60a";
+}
+
+.icon-ak-caster-s:before {
+  content: "\e60b";
+}
+
+.icon-ak-guard-s:before {
+  content: "\e60c";
+}
+
+.icon-ak-vanguard-s:before {
+  content: "\e60d";
+}
+
+.icon-ak-supporter-s:before {
+  content: "\e60e";
+}
+
+.icon-ak-defender-s:before {
+  content: "\e60f";
+}
+
+.icon-ak-sniper-s:before {
+  content: "\e610";
+}
+
+.icon-ak-onboarding:before {
+  content: "\e622";
+}
+
+.icon-ak-caster:before {
+  content: "\e608";
+}
+
+.icon-ak-sniper:before {
+  content: "\e607";
+}
+
+.icon-ak-guard:before {
+  content: "\e606";
+}
+
+.icon-ak-defender:before {
+  content: "\e601";
+}
+
+.icon-ak-medic:before {
+  content: "\e602";
+}
+
+.icon-ak-vanguard:before {
+  content: "\e603";
+}
+
+.icon-ak-specialist:before {
+  content: "\e604";
+}
+
+.icon-ak-supporter:before {
+  content: "\e605";
+}
+
+.icon-ak-door-in:before {
+  content: "\e6f7";
+}
+
+.icon-ak-house_fill:before {
+  content: "\e674";
+}
+
+.icon-ak-passport-fill:before {
+  content: "\ea36";
+}
+

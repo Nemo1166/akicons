@@ -1,0 +1,19 @@
+{
+  "name": "akicons",
+  "version": "1.0.0",
+  "description": "iconfont for Arknights.",
+  "main": "iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemo1166/akicons.git"
+  },
+  "author": "Nemo1166",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemo1166/akicons/issues"
+  },
+  "homepage": "https://github.com/Nemo1166/akicons#readme"
+}
