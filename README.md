@@ -23,10 +23,10 @@ Unicode 是字体在网页端最原始的应用方式，特点是：
 ```css
 @font-face {
   font-family: 'iconfont';
-  src: url('https://unpkg.com/akicons@1.0.0/iconfont.woff2') format('woff2'),
-       url('https://unpkg.com/akicons@1.0.0/iconfont.woff') format('woff'),
-       url('https://unpkg.com/akicons@1.0.0/iconfont.ttf') format('truetype'),
-       url('https://unpkg.com/akicons@1.0.0/iconfont.svg#iconfont') format('svg');
+  src: url('https://unpkg.com/akicons@latest/iconfont.woff2') format('woff2'),
+       url('https://unpkg.com/akicons@latest/iconfont.woff') format('woff'),
+       url('https://unpkg.com/akicons@latest/iconfont.ttf') format('truetype'),
+       url('https://unpkg.com/akicons@latest/iconfont.svg#iconfont') format('svg');
 }
 
 .iconfont {
@@ -56,7 +56,7 @@ font-class 是 Unicode 使用方式的一种变种，主要是解决 Unicode 书
 第一步：引入项目下面生成的 fontclass 代码：
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/akicons@1.0.0/iconfont.css">
+<link rel="stylesheet" href="https://unpkg.com/akicons@latest/iconfont.css">
 ```
 
 第二步：挑选相应图标并获取类名，应用于页面：
