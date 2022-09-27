@@ -1,6 +1,6 @@
 {
   "name": "akicons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iconfont for Arknights.",
   "main": "iconfont.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/Nemo1166/akicons/issues"
   },
-  "homepage": "https://github.com/Nemo1166/akicons#readme"
+  "homepage": "https://nemo1166.github.io/akicons/"
 }
