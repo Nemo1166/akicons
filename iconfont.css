@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3670092 */
-  src: url('iconfont.woff2?t=1664284458294') format('woff2'),
-       url('iconfont.woff?t=1664284458294') format('woff'),
-       url('iconfont.ttf?t=1664284458294') format('truetype'),
-       url('iconfont.svg?t=1664284458294#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1664388801991') format('woff2'),
+       url('iconfont.woff?t=1664388801991') format('woff'),
+       url('iconfont.ttf?t=1664388801991') format('truetype'),
+       url('iconfont.svg?t=1664388801991#iconfont') format('svg');
 }
 
 .iconfont {
@@ -12,6 +12,30 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ak-template:before {
+  content: "\e666";
+}
+
+.icon-ak-wiki-icon:before {
+  content: "\e665";
+}
+
+.icon-ak-co-upgrade:before {
+  content: "\e664";
+}
+
+.icon-ak-edit:before {
+  content: "\e7a0";
+}
+
+.icon-ak-markdown:before {
+  content: "\e6ff";
+}
+
+.icon-ak-markdown-fill:before {
+  content: "\e8d5";
 }
 
 .icon-ak-setting:before {

@@ -1,6 +1,6 @@
 {
   "name": "akicons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "iconfont for Arknights.",
   "main": "iconfont.js",
   "scripts": {

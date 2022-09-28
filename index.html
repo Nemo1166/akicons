@@ -55,6 +55,42 @@
           <ul class="icon_lists dib-box">
 
             <li class="dib">
+              <span class="icon iconfont">&#xe666;</span>
+                <div class="name">template</div>
+                <div class="code-name">&amp;#xe666;</div>
+              </li>
+
+            <li class="dib">
+              <span class="icon iconfont">&#xe665;</span>
+                <div class="name">写入Wiki_icon</div>
+                <div class="code-name">&amp;#xe665;</div>
+              </li>
+
+            <li class="dib">
+              <span class="icon iconfont">&#xe664;</span>
+                <div class="name">co_upgrade</div>
+                <div class="code-name">&amp;#xe664;</div>
+              </li>
+
+            <li class="dib">
+              <span class="icon iconfont">&#xe7a0;</span>
+                <div class="name">edit</div>
+                <div class="code-name">&amp;#xe7a0;</div>
+              </li>
+
+            <li class="dib">
+              <span class="icon iconfont">&#xe6ff;</span>
+                <div class="name">markdown</div>
+                <div class="code-name">&amp;#xe6ff;</div>
+              </li>
+
+            <li class="dib">
+              <span class="icon iconfont">&#xe8d5;</span>
+                <div class="name">markdown-fill</div>
+                <div class="code-name">&amp;#xe8d5;</div>
+              </li>
+
+            <li class="dib">
               <span class="icon iconfont">&#xe871;</span>
                 <div class="name">setting-fill</div>
                 <div class="code-name">&amp;#xe871;</div>
@@ -698,14 +734,14 @@
             <p>注意：新版 iconfont 支持两种方式引用多色图标：SVG symbol 引用方式和彩色字体图标模式。（使用彩色字体图标需要在「编辑项目」中开启「彩色」选项后并重新生成。）</p>
           </blockquote>
           <p>Unicode 使用步骤如下：</p>
-          <h3 id="-font-face">第一步：拷贝项目下面生成的 <code>@font-face</code></h3>
+          <h3 id="-font-face">第一步：拷贝项目 <code>@font-face</code></h3>
 <pre><code class="language-css"
 >@font-face {
   font-family: 'iconfont';
-  src: url('https://unpkg.com/akicons@latest/iconfont.woff2') format('woff2'),
-       url('https://unpkg.com/akicons@latest/iconfont.woff') format('woff'),
-       url('https://unpkg.com/akicons@latest/iconfont.ttf') format('truetype'),
-       url('https://unpkg.com/akicons@latest/iconfont.svg#iconfont') format('svg');
+  src: url('https://unpkg.com/akicons@latest/iconfont.woff2?t=1664388801991') format('woff2'),
+       url('https://unpkg.com/akicons@latest/iconfont.woff?t=1664388801991') format('woff'),
+       url('https://unpkg.com/akicons@latest/iconfont.ttf?t=1664388801991') format('truetype'),
+       url('https://unpkg.com/akicons@latest/iconfont.svg?t=1664388801991#iconfont') format('svg');
 }
 </code></pre>
           <h3 id="-iconfont-">第二步：定义使用 iconfont 的样式</h3>
@@ -730,6 +766,60 @@
       </div>
       <div class="content font-class">
         <ul class="icon_lists dib-box">
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-template"></span>
+            <div class="name">
+              template
+            </div>
+            <div class="code-name">.icon-ak-template
+            </div>
+          </li>
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-wiki-icon"></span>
+            <div class="name">
+              写入Wiki_icon
+            </div>
+            <div class="code-name">.icon-ak-wiki-icon
+            </div>
+          </li>
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-co-upgrade"></span>
+            <div class="name">
+              co_upgrade
+            </div>
+            <div class="code-name">.icon-ak-co-upgrade
+            </div>
+          </li>
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-edit"></span>
+            <div class="name">
+              edit
+            </div>
+            <div class="code-name">.icon-ak-edit
+            </div>
+          </li>
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-markdown"></span>
+            <div class="name">
+              markdown
+            </div>
+            <div class="code-name">.icon-ak-markdown
+            </div>
+          </li>
+
+          <li class="dib">
+            <span class="icon iconfont icon-ak-markdown-fill"></span>
+            <div class="name">
+              markdown-fill
+            </div>
+            <div class="code-name">.icon-ak-markdown-fill
+            </div>
+          </li>
 
           <li class="dib">
             <span class="icon iconfont icon-ak-setting"></span>
@@ -1688,7 +1778,7 @@
           <li>因为使用 class 来定义图标，所以当要替换图标时，只需要修改 class 里面的 Unicode 引用。</li>
         </ul>
         <p>使用步骤如下：</p>
-        <h3 id="-fontclass-">第一步：引入项目下面生成的 fontclass 代码：</h3>
+        <h3 id="-fontclass-">第一步：引入 fontclass 代码：</h3>
 <pre><code class="language-html">&lt;link rel="stylesheet" href="https://unpkg.com/akicons@latest/iconfont.css"&gt;
 </code></pre>
         <h3 id="-">第二步：挑选相应图标并获取类名，应用于页面：</h3>
@@ -1702,6 +1792,54 @@
       </div>
       <div class="content symbol">
           <ul class="icon_lists dib-box">
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-template"></use>
+                </svg>
+                <div class="name">template</div>
+                <div class="code-name">#icon-ak-template</div>
+            </li>
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-wiki-icon"></use>
+                </svg>
+                <div class="name">写入Wiki_icon</div>
+                <div class="code-name">#icon-ak-wiki-icon</div>
+            </li>
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-co-upgrade"></use>
+                </svg>
+                <div class="name">co_upgrade</div>
+                <div class="code-name">#icon-ak-co-upgrade</div>
+            </li>
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-edit"></use>
+                </svg>
+                <div class="name">edit</div>
+                <div class="code-name">#icon-ak-edit</div>
+            </li>
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-markdown"></use>
+                </svg>
+                <div class="name">markdown</div>
+                <div class="code-name">#icon-ak-markdown</div>
+            </li>
+
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-ak-markdown-fill"></use>
+                </svg>
+                <div class="name">markdown-fill</div>
+                <div class="code-name">#icon-ak-markdown-fill</div>
+            </li>
 
             <li class="dib">
                 <svg class="icon svg-icon" aria-hidden="true">
@@ -2557,7 +2695,7 @@
             <li>浏览器渲染 SVG 的性能一般，还不如 png。</li>
           </ul>
           <p>使用步骤如下：</p>
-          <h3 id="-symbol-">第一步：引入项目下面生成的 symbol 代码：</h3>
+          <h3 id="-symbol-">第一步：引入 symbol 代码：</h3>
 <pre><code class="language-html">&lt;script src="https://unpkg.com/akicons@latest/iconfont.js"&gt;&lt;/script&gt;
 </code></pre>
           <h3 id="-css-">第二步：加入通用 CSS 代码（引入一次就行）：</h3>

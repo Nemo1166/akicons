@@ -6,6 +6,48 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "167467",
+      "name": "template",
+      "font_class": "template",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "1215775",
+      "name": "写入Wiki_icon",
+      "font_class": "wiki-icon",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "2877100",
+      "name": "co_upgrade",
+      "font_class": "co-upgrade",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "6151070",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "11993026",
+      "name": "markdown",
+      "font_class": "markdown",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "9566971",
+      "name": "markdown-fill",
+      "font_class": "markdown-fill",
+      "unicode": "e8d5",
+      "unicode_decimal": 59605
+    },
+    {
       "icon_id": "4936694",
       "name": "setting-fill",
       "font_class": "setting",

@@ -8,6 +8,8 @@ iconfont for Arknights. Made by [iconfont](https://www.iconfont.cn/)
 
 明日方舟、Arknights及其相关素材所有权归属于上海鹰角网络科技有限公司，本项目旨在辅助基于《明日方舟》的二次创作，请在合理范围内使用本项目素材。[参考](https://www.hypergryph.com/service)
 
+除部分来自 iconfont 图标库外，其余图标均自行重绘，项目中不包含原始素材。
+
 ## 用法
 
 ### Unicode 引用
@@ -53,7 +55,7 @@ font-class 是 Unicode 使用方式的一种变种，主要是解决 Unicode 书
 - 相比于 Unicode 语意明确，书写更直观。可以很容易分辨这个 icon 是什么。
 - 因为使用 class 来定义图标，所以当要替换图标时，只需要修改 class 里面的 Unicode 引用。
 
-第一步：引入项目下面生成的 fontclass 代码：
+第一步：引入 fontclass 代码：
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/akicons@latest/iconfont.css">
@@ -76,9 +78,9 @@ font-class 是 Unicode 使用方式的一种变种，主要是解决 Unicode 书
 
 使用步骤如下：
 
-第一步：在`<head>`中引入项目下面生成的 symbol 代码：
+第一步：在`<head>` symbol 代码：
 ```html
-<script src="./iconfont.js"></script>
+<script src="https://unpkg.com/akicons@latest/iconfont.js"></script>
 ```
 第二步：加入通用 CSS 代码
 
